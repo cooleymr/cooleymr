@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cooleymr
+- 🌱 I’m currently studying Informatics & Computer Science @ Indiana University
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me mrcooley@iu.edu
