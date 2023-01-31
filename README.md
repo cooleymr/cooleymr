@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @cooleymr
+- 👋 Hi, I’m Mac Cooley
 - 🌱 I’m currently studying Informatics & Computer Science @ Indiana University
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me mrcooley@iu.edu
+- 📫 How to reach me cooleym840@gmail.com
+- My school GitHub account is: https://github.iu.edu/mrcooley
