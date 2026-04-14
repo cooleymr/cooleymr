@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mac Cooley
-- 🌱 I’m currently studying Informatics & Computer Science @ Indiana University
+- 🌱 Computer Science & Informatics @ Indiana University
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me cooleym840@gmail.com
+- 📫 How to reach me reclaimsue@proton.me
 - My school GitHub account is: https://github.iu.edu/mrcooley
